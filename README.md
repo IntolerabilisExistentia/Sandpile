@@ -1,5 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12602902&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 3
+# Sandpile
 
 ## Задача
 
@@ -67,11 +66,3 @@
 1. Для реализации Вам может пригодиться [библиотека](https://en.cppreference.com/w/cpp/filesystem) для работы с файловой системой из стандартной библиотеки.
 2. В данной лабе Вам дано только описание. Структура проекта и организация сборки также ваша задача. Использовать для сборки не cmake - запрещено.
 3. Важно помнить, что размер структуры может быть не равен сумме размеров ее полей за счет [выравнивания](https://en.cppreference.com/w/c/language/object). Данную проблему можно решить за счет [директив препроцессора](https://en.cppreference.com/w/cpp/preprocessor/impl).
-
-## Deadline
-
-1. 31.10.23 24:00 - 0.8
-2. 07.11.23 24:00 - 0.65
-3. 14.11.23 24:00 - 0.5
-
-Данная работа оценивается 15 баллами.

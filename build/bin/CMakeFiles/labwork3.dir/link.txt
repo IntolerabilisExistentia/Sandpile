@@ -1,0 +1,1 @@
+/usr/sbin/c++ CMakeFiles/labwork3.dir/main.cpp.o -o labwork3  ../lib/libargparser.a ../lib/libsandpile.a 
