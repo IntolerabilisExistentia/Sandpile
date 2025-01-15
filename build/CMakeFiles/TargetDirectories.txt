@@ -1,9 +1,0 @@
-/home/sartre/labwork3-IntolerabilisExistentia/build/CMakeFiles/edit_cache.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/CMakeFiles/rebuild_cache.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/lib/CMakeFiles/argparser.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/lib/CMakeFiles/sandpile.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/lib/CMakeFiles/edit_cache.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/lib/CMakeFiles/rebuild_cache.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/bin/CMakeFiles/labwork3.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/bin/CMakeFiles/edit_cache.dir
-/home/sartre/labwork3-IntolerabilisExistentia/build/bin/CMakeFiles/rebuild_cache.dir

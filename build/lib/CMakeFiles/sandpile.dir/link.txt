@@ -1,2 +1,0 @@
-/usr/sbin/ar qc libsandpile.a CMakeFiles/sandpile.dir/Sandpile.cpp.o CMakeFiles/sandpile.dir/BMP.cpp.o
-/usr/sbin/ranlib libsandpile.a
